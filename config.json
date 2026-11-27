@@ -1,6 +1,6 @@
 {
   "minVersionCode": 1,
-  "forceStop": false,
+  "forceStop": true,
   "title": "تحديث إجباري",
   "message": "انتهت صلاحية هذا الإصدار. يرجى تحميل التحديث الجديد من قناة تيليجرام.",
   "updateUrl": "https://t.me/HAO_V1"
